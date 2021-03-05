@@ -9,10 +9,6 @@ clear
 close all
 addpath(genpath('.'))
 
-disp("Ariel Moshe - 312549660")
-disp("Roy Schneider - 312538150")
-disp("Ram Shirazi - 204272058")
-
 isPlot = true; % bolean for plots
 url = "http://192.168.1.15:8020/videoView";
 cam = ipcam(url);
