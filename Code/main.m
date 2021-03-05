@@ -1,7 +1,7 @@
 % ***************************************
 % Chess Vision - Digital Image Processing
 %                                           
-% Roy Schneider, Ariel Moshe, Ram Shirazi
+% Ariel Moshe, Roy Schneider, Ram Shirazi
 % ***************************************
 
 clc
